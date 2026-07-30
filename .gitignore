@@ -1,0 +1,14 @@
+# Python
+.venv/
+__pycache__/
+*.py[cod]
+
+# .NET
+bin/
+obj/
+
+# Editors / OS
+.DS_Store
+.idea/
+.vs/
+*.user

@@ -1,0 +1,4 @@
+# Pinned to the exact version these samples were written and run against.
+# `pip install mcp` now resolves to the 2.x line; the pin is here so the
+# samples keep matching the articles.
+mcp[cli]==2.0.0
