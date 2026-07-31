@@ -1,0 +1,5 @@
+# Every change to this repository requires review from the owner.
+# Combined with "require review from Code Owners" branch protection,
+# this makes @mszupke's approval specifically required, rather than
+# any collaborator's approval.
+* @mszupke
